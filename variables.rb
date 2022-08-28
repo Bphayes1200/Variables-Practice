@@ -9,4 +9,4 @@ program = "fall"
 start_date = "August 22"
 puts "My name is Brian Hayes"
 x = 10
-puts "The value of x is #{10}"
+puts "The value of x is #{x}"
