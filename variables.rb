@@ -7,6 +7,7 @@ i_like_basketball = true
 i_like_bananas = false
 program = "fall"
 start_date = "August 22"
-puts "My name is Brian Hayes"
+name = "Brian Hayes"
+puts "Hello, my name is" + name + "!"
 x = 10
 puts "The value of x is #{x}"
