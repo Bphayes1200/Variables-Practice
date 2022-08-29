@@ -8,6 +8,6 @@ i_like_bananas = false
 program = "fall"
 start_date = "August 22"
 name = "Brian Hayes"
-puts "Hello, my name is" + name + "!"
+puts "Hello, my name is " + name + "!"
 x = 10
 puts "The value of x is #{x}"
